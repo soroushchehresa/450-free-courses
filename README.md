@@ -1,4 +1,4 @@
-# 450-free-courses
+# 450 Free Courses
 > Here are 450 Ivy League courses you can take online right now for free.
 
 The 8 Ivy League schools are among the most prestigious colleges in the world. They include Brown, Harvard, Cornell, Princeton, Dartmouth, Yale, and Columbia universities, and the University of Pennsylvania.
@@ -9,19 +9,20 @@ These Ivy League schools are also highly selective and extremely hard to get int
 
 So far, they’ve created over 500 courses, of which around 450 are still active. Class Central has made a collection of all these, which you can explore below. I’ve split these courses into the following categories:
 
-- [Computer Science](#computer-science)
-- [Data Science](#data-science)
-- [Programming](#programming)
-- [Humanities](#humanities)
-- [Business](#business)
-- [Art & Design](#art-&-design)
-- [Science](#science)
-- [Social Sciences](#social-sciences)
-- [Health & Medicine](#health-&-medicine)
-- [Engineering](#engineering)
-- [Mathematics](#mathematics)
-- [Education & Teaching](#education-&-teaching)
-- [Personal Development](#personal-development)
+## Contents
+- [Computer Science](#computer-science-37)
+- [Data Science](#data-science-18)
+- [Programming](#programming-8)
+- [Humanities](#humanities-80)
+- [Business](#business-72)
+- [Art & Design](#art--design-20)
+- [Science](#science-32)
+- [Social Sciences](#social-sciences-74)
+- [Health & Medicine](#health--medicine-32)
+- [Engineering](#engineering-15)
+- [Mathematics](#education--teaching-21)
+- [Education & Teaching](#mathematics-14)
+- [Personal Development](#personal-development-7)
 
 <h2 id="computer-science-37-"><strong>Computer Science (37)</strong></h2>
     <ul>
