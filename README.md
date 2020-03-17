@@ -10,19 +10,19 @@ These Ivy League schools are also highly selective and extremely hard to get int
 So far, they’ve created over 500 courses, of which around 450 are still active. Class Central has made a collection of all these, which you can explore below. I’ve split these courses into the following categories:
 
 ## Contents
-- [Computer Science](#computer-science-37)
-- [Data Science](#data-science-18)
-- [Programming](#programming-8)
-- [Humanities](#humanities-80)
-- [Business](#business-72)
-- [Art & Design](#art--design-20)
-- [Science](#science-32)
-- [Social Sciences](#social-sciences-74)
-- [Health & Medicine](#health--medicine-32)
-- [Engineering](#engineering-15)
-- [Mathematics](#education--teaching-21)
-- [Education & Teaching](#mathematics-14)
-- [Personal Development](#personal-development-7)
+- [Computer Science (37)](#computer-science-37)
+- [Data Science (18)](#data-science-18)
+- [Programming (8)](#programming-8)
+- [Humanities (80)](#humanities-80)
+- [Business (72)](#business-72)
+- [Art & Design (20)](#art--design-20)
+- [Science (32)](#science-32)
+- [Social Sciences (74)](#social-sciences-74)
+- [Health & Medicine (32)](#health--medicine-32)
+- [Engineering (15)](#engineering-15)
+- [Mathematics (21)](#education--teaching-21)
+- [Education & Teaching (14)](#mathematics-14)
+- [Personal Development (7)](#personal-development-7)
 
 <h2 id="computer-science-37-"><strong>Computer Science (37)</strong></h2>
     <ul>
